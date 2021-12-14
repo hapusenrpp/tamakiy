@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://chrprome.github.io/chr2021/sitemap.xml
+Sitemap: https://hapusenrpp.github.io/chr2021/sitemap.xml
